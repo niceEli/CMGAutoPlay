@@ -48,6 +48,5 @@
       return url.indexOf(excludedUrl) > -1;
     });
   }
-
   redirectToPlayUrl();
 })();
