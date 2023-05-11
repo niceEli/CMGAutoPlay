@@ -6,6 +6,7 @@
 // @author       niceEli
 // @match        https://*.coolmathgames.com/*
 // @grant        none
+// @licence      MIT
 // ==/UserScript==
 
 (function(){
